@@ -1,0 +1,16 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 打包产物（发布用 zip 不放进仓库）
+*.zip
+dist/
+
+# 本地配置/缓存
+.workbuddy/
+.idea/
+.vscode/
+
+# 编辑器临时文件
+*~
+*.swp
